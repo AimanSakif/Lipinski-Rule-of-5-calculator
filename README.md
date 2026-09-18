@@ -6,6 +6,10 @@ then press windows + R and enter "cmd" and run
 
 then drag or paste file path and enter 
 
+or you may download the exe file from here
+
+https://drive.google.com/file/d/1EZX77zSV0IuE0-KYQnXvdZE2mVR74bES/view?usp=drive_link
+
 Takes as many Names/CID_Numbers/IMPHY_Numbers as input you want 
 
 Calculates MW, LogP, HBD, and HBA using RDKit 
